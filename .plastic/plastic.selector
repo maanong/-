@@ -1,0 +1,4 @@
+repository "캡스토토톤@adsl5674@cloud"
+  path "/"
+    br "/main"
+    co "/main"
